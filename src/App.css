@@ -1,0 +1,345 @@
+
+
+.App {
+  text-align: center;
+}
+
+.titleLogo {
+  height:90px;
+  width:90px;
+  margin-right:1050px;
+}
+
+header {
+  background-color: black;
+  height:100px;
+}
+
+input[type=text] {
+  padding: 6px;
+  font-size: 17px;
+  border: none;
+  position: relative;
+  bottom: 130px;
+  right:60px;
+}
+
+.searchBar {
+  position: relative;
+  bottom: 130px;
+  right:60px;
+  padding: 6px 10px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ccc;
+}
+
+.giftCard {
+  height: 90px;
+  width: 150px;
+  position: relative;
+  bottom:90px;
+}
+
+.fa-user-alt {
+  font-size: 25px;
+  color:white;
+  position: relative;
+  bottom:125px;
+  left:70px;
+}
+
+.fa-map-marker-alt {
+  font-size: 25px;
+  color: white;
+  position: relative;
+  bottom: 130px;
+  left:160px;
+}
+
+.signIn {
+  position: relative;
+  bottom:130px;
+  left:80px;
+  color:white;
+}
+
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  left:220px;
+  bottom:130px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: black;}
+
+.fa-shopping-basket {
+  font-size: 20px;
+}
+
+
+.fa-truck {
+  font-size: 20px;
+  position: relative;
+  top:20px;
+  right:80px;
+}
+
+.greyNavigation {
+  background-color: lightgrey;
+  position: relative;
+  bottom:105px;
+  outline: 2px solid black;
+  height:80px;
+}
+
+.fa-money-bill-wave {
+  position: relative;
+  left:450px;
+  top:20px;
+  font-size:20px;
+}
+
+.fa-building {
+  position: relative;
+  font-size: 20px;
+  right: 300px;
+  top:20px;
+  background-color: lightgrey;
+}
+
+.smallText {
+  background-color: black;
+  color:white;
+  position: relative;
+  bottom:103px;
+  height:30px;
+}
+
+.findMore {
+  color:white;
+  position: relative;
+  left:400px;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+  }
+
+.sale {
+  position: relative;
+  bottom:103px;
+  width:100%;
+}
+
+.dragon {
+  height:200px;
+  width:200px;
+  position: relative;
+  left:350px;
+  bottom:200px;
+}
+
+.cod {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  right: 150px;
+  bottom: 200px;
+}
+
+.fifa {
+  height:190px;
+  width:160px;
+  position: relative;
+  left:300px;
+  bottom: 200px;
+}
+
+.starWars {
+  height: 190px;
+  width: 160px;
+  position: relative;
+  left:450px;
+  bottom: 200px;
+}
+
+.metro {
+  height:400px;
+  width:600px;
+  position: relative;
+  top:250px;
+  right:650px;
+}
+
+.announced {
+  position: relative;
+  top:240px;
+  right:500px;
+}
+
+.shopAll {
+  position: relative;
+  right:327px;
+  bottom:50px;
+  font-weight: bold;
+  color:black;
+}
+
+.nintendoBundle {
+  position: relative;
+  height:300px;
+  width:400px;
+  left:300px;
+  bottom:150px;
+}
+
+.switch {
+  position: relative;
+  left:250px;
+  bottom: 120px;
+}
+
+.switchLink {
+  position: relative;
+  left:205px;
+  bottom: 120px;
+  font-weight: bold;
+  color: black;
+}
+
+.blackSection  {
+  background: linear-gradient(to bottom, #666699 0%, #669999 100%);
+  color:white;
+}
+
+.text1{
+  position: relative;
+  right:400px;
+  top:100px;
+  font-weight: bold;
+  color:white;
+}
+
+.text2 {
+  position: relative;
+  top:100px;
+  right:400px;
+  color:white;
+}
+
+.shop2nd {
+  position: relative;
+  right:200px;
+  bottom:80px;
+  color:white;
+  font-weight: bold;
+}
+
+.twoConsoles {
+  position: relative;
+  height:200px;
+  width:400px;
+  left:200px;
+}
+
+.tokyo {
+  position: relative;
+  height:200px;
+  width: 400px;
+  top:50px;
+  right:370px;
+}
+
+.shop3rd {
+  position: relative;
+  bottom:100px;
+  right:380px;
+  color:black;
+}
+
+.miss {
+  position: relative;
+  top:80px;
+  right:450px;
+}
+
+.gameElite {
+  position: relative;
+  height: 200px;
+  width: 300px;
+  left:50px;
+  bottom: 200px;
+}
+
+.percent {
+  position: relative;
+  left:50px;
+  bottom:175px;
+}
+
+.joinNow {
+  position: relative;
+  bottom:350px;
+  left:145px;
+  color:black;
+}
+
+.gameMedia {
+  position: relative;
+  height:200px;
+  width: 300px;
+  left:450px;
+  bottom:450px;
+}
+
+.news {
+  position: relative;
+  bottom: 430px;
+  left:400px;
+}
+
+.findMore2 {
+  position: relative;
+  bottom: 430px;
+  left: 430px;
+  color: black;
+}
+

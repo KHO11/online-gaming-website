@@ -1,0 +1,225 @@
+.mainBottomPart {
+    background-color: darkslategrey;
+    color: white;
+    position: relative;
+    bottom: 400px;
+    overflow-y: hidden;
+    height:900px;
+    overflow-x: hidden;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.leftList {
+    margin-right: 1200px;
+    position: relative;
+    top:20px;
+}
+
+ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.main {
+    font-weight: bold;
+}
+
+.main2 {
+    font-weight: bold;
+}
+
+.secondList {
+    position: relative;
+    bottom:160px;
+    margin-right: 700px;
+}
+
+.main3 {
+    font-weight: bold;
+  }
+  
+.thirdList {
+    position: relative;
+    bottom: 320px;
+    margin-right: 200px;
+}
+
+.main4 {
+    font-weight: bold;
+}
+
+.endList{
+    position: relative;
+    bottom:480px;
+    margin-left: 400px;
+}
+
+.visa {
+    position: relative;
+    height:40px;
+    width: 140px;
+    margin-right: 900px;
+    bottom:500px;
+}
+
+h2 {
+    position: relative;
+    font-size: 13px;
+    margin-right: 1000px;
+}
+
+.paypal {
+    position: relative;
+    height:30px;
+    width: 130px;
+    right: 850px;
+    bottom: 500px;
+}
+
+.giftCard {
+    position: relative;
+    height:100px;
+    width:70px;
+    bottom:370px;
+    right:1150px;
+
+}
+
+.lastLine {
+    position: relative;
+    bottom:450px;
+}
+
+h2 {
+    position: relative;
+    bottom:450px;
+}
+
+.credit {
+    position: relative;
+    height:50px;
+    width: 150px;
+    bottom: 450px;
+    right:400px;
+}
+
+h3 {
+    position: relative;
+    bottom:650px;
+    font-size: 15px;
+}
+
+p {
+    position: relative;
+    bottom: 650px;
+}
+
+form{
+    position: relative;
+    bottom:500px;
+    left:30px;
+    
+}
+
+
+
+h4 {
+    position: relative;
+    font-size: 15px;
+    left:500px;
+    bottom:770px;
+}
+
+.insomia {
+    position: relative;
+    height: 100px;
+    width: 250px;
+    left: 500px;
+    bottom: 750px;
+}
+
+.finalLine {
+    position: relative;
+    bottom: 600px;
+}
+
+h5 {
+    position: relative;
+    font-size: 15px;
+    bottom: 590px;
+    right:500px;
+}
+
+.firstButton {
+    position: relative;
+    bottom: 640px;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.secondButton {
+    position: relative;
+    bottom: 640px;
+    border-radius: 15px;
+    font-size: 15px;
+    left:50px;
+    padding: 10px;
+}
+
+.thirdButton {
+    position: relative;
+    bottom: 640px;
+    border-radius: 15px;
+    font-size: 15px;
+    left:100px;
+    padding: 10px;
+}
+
+.lastHeading {
+    position: relative;
+    font-size: 15px;
+    color: white;
+    bottom: 660px;
+    left: 500px;
+}
+
+.gameElite2 {
+    position: relative;
+    bottom: 650px;
+    left: 560px;
+    height: 30px;
+    width: 120px;
+}
+
+.gameReward {
+    position: relative;
+    height: 30px;
+    width: 120px;
+    bottom: 650px;
+    left:610px;
+}
+
+.appStore {
+    position: relative;
+    height: 35px;
+    width: 120px;
+    bottom: 560px;
+    left: 320px;
+}
+
+.googlePlay {
+    position: relative;
+    height: 45px;
+    width: 120px;
+    bottom: 550px;
+    left: 360px;
+}
+
+
+
+
+
